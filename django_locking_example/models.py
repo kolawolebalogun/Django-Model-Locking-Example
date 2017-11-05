@@ -1,4 +1,6 @@
 from django.db import models
+from django.db.models import signals
+from django.dispatch import receiver
 
 
 # Create your models here.
@@ -39,3 +41,8 @@ class InsydoGuide(models.Model):
 
     def __str__(self):
         return self.title
+
+
+@receiver(signals.pre_init, sender=InsydoGuide)
+def initialize_guide(sender, **kwargs):
+    print("Guide initialized", kwargs)

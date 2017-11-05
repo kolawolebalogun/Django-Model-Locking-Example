@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_signals'
+    'django_locking_example',
+    'locking'
 ]
 
 MIDDLEWARE = [
