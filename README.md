@@ -17,4 +17,6 @@ Then you run `pip install -r requirements.txt` to install all dependencies
 Start Django Server by running `python manage.py runserver`
 
 
-![alt text](http://jmp.sh/S7y7PTv) ![alt text](http://jmp.sh/jgjf2Ja) ![alt text](http://jmp.sh/1exUgo5)
+![screen shot](https://raw.githubusercontent.com/kolawolebalogun/Django-Model-Locking-Example/7438fc213361af6335f283f9adef90907b86b5c2/screenshots/Screen%20Shot%202017-11-04%20at%208.07.44%20PM.png)
+![screen shot](https://raw.githubusercontent.com/kolawolebalogun/Django-Model-Locking-Example/7438fc213361af6335f283f9adef90907b86b5c2/screenshots/Screen%20Shot%202017-11-05%20at%206.52.59%20AM.png)
+![screen shot](https://raw.githubusercontent.com/kolawolebalogun/Django-Model-Locking-Example/7438fc213361af6335f283f9adef90907b86b5c2/screenshots/Screen%20Shot%202017-11-05%20at%206.53.29%20AM.png)
