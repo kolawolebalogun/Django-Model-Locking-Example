@@ -14,7 +14,7 @@ First you create a virtual environment with `virtualenv venv` and enter it with 
 
 Then you run `pip install -r requirements.txt` to install all dependencies
 
-Start Django Server by running `python manage.py runserver` then visit ![http://127.0.0.1:8000/](http://127.0.0.1:8000/) on your browser.
+Start Django Server by running `python manage.py runserver` then visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) on your browser.
 
 
 ![screen shot](https://raw.githubusercontent.com/kolawolebalogun/Django-Model-Locking-Example/7438fc213361af6335f283f9adef90907b86b5c2/screenshots/Screen%20Shot%202017-11-04%20at%208.07.44%20PM.png)
